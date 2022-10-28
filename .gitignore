@@ -1,0 +1,7 @@
+.DS_Store
+bazel-bazel-java-demo
+.ijwb
+bazel-bin
+bazel-java-demo.iml
+bazel-out
+bazel-testlogs
